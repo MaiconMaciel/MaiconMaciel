@@ -15,6 +15,7 @@ Apaixonado por tecnologia, dados e aprendizado contínuo.
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ![Maicon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconmaciel&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconmaciel&layout=compact&theme=tokyonight)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maiconmaciel)
