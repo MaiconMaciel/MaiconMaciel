@@ -1,4 +1,6 @@
-## 👋 Olá! Eu sou o Maicon Maciel
+<div align="center">
+
+## 👋 Olá! Eu sou o Maicon Maciel  
 Estudante de Ciência da Computação | Foco em Engenharia de Dados e Backend  
 Apaixonado por tecnologia, dados e aprendizado contínuo.
 
@@ -17,6 +19,9 @@ Apaixonado por tecnologia, dados e aprendizado contínuo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maiconmaciel)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/maicon_schw)
+
+</div>
+
 
 
 <!-- ### 🚀 Projetos Recentes --!>
