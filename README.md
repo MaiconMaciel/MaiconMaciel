@@ -11,15 +11,17 @@ Apaixonado por tecnologia, dados e aprendizado contínuo.
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎓 Certificações
+### 🎓 Certificações & Badges
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
+- AWS Introduction to Generative AI
+- AWS Machine Learning Foundations Badge
+- EF SET (Proficiência em inglês) Nível C1
 
 ![Maicon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconmaciel&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconmaciel&layout=compact&theme=tokyonight)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maiconmaciel)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/maicon_schw)
 
 </div>
 
